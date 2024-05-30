@@ -1,4 +1,4 @@
-# AI Shakespeare Generator
+# ai shakespeare generator
 ## What is the point of this project?
 This project is a quite simple AI shakespeare 5 sentance generator that uses Shakespeares writing style!
 ## Can you give me an example paragraph?
